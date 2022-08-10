@@ -18,10 +18,10 @@
 
 
 
-#sobre
+<h2 id='sobre'>sobre</h2>
 <p>Este projeto simples foi uma forma de aplicar alguns conhecimentos basicos com python e Mysql, assim criamos baseado  em modelo simples de cafeteria, aonde se pode manipular produtos dentro de um banco de dados.</p>
 
-#Funcionalidades
+<h2 id ='funcionalidades'>Funcionalidades</h2>
 
 
 <p>Todas as funcionalidades giram em torno de um CRUD basico,porem utilizando uma interface grafica. </p>
@@ -42,6 +42,6 @@
 
 
 
-#Tecnologias 
+<h2 id ='tecnologias'>Tecnologias</h2> 
 
-#Autores
+<h2 id ='autores'>Autores</h2>
