@@ -23,6 +23,19 @@
 
 <h2 id ='funcionalidades'>Funcionalidades</h2>
 
+##Principais telas
+
+<p align=CENTER>
+ 
+<a href='#menu'>MENU</a>
+<a href='#estoque'>ESTOQUE</a>
+<a href='#cad_funci'>Cadastrar FUNCIONÁRIO</a>
+<a href='#cad_produto'>CADASTRAR PRODUTO</a>
+<a href='#alter'>ALTERAR PRODUTO</a>
+<a href='#clear'>EXCLUIR PRODUTO</a>
+</p>
+
+
 
 <p>Todas as funcionalidades giram em torno de um CRUD basico,porem utilizando uma interface grafica, com isso o programa foi criado com a função de cadastrar produtos e funcionários, podendo alterar a descrição do produto, e a pesquisa de todos ou 1 produto.Tudo usando banco de dados, alem de uma aba de comprar mostrando um valor no visor para a realização de uma comprar. </p>
 
@@ -37,7 +50,7 @@
 
 <hr>
 
-<h1 align=CENTER>
+<h1 id="menu" align=CENTER>
 Menu
 </h1>
 
@@ -53,7 +66,7 @@ Menu
 
 
 
-<h1 align=CENTER>
+<h1 id="estoque"align=CENTER>
 Estoque
 </h1>
 
@@ -65,7 +78,7 @@ Estoque
 </p>
 
 
-<h1 align=CENTER>
+<h1 id="cad_funci" align=CENTER>
 Cadastrar Funcionário
 </h1>
 
@@ -84,7 +97,7 @@ Cadastrar Funcionário
 <hr>
 
 
-<h1 align=CENTER>
+<h1 id="cad_produto" align=CENTER>
 Cadastrar Produto
 </h1>
 
@@ -103,7 +116,7 @@ Cadastrar Produto
 <hr>
 
 
-<h1 align=CENTER>
+<h1 id="view" align=CENTER>
  Exibir
 </h1>
 
@@ -119,7 +132,7 @@ Cadastrar Produto
 <hr>
 
 
-<h1 align=CENTER>
+<h1 id="alter" align=CENTER>
  Alterar
 </h1>
 
@@ -134,7 +147,7 @@ Cadastrar Produto
 <hr>
 
 
-<h1 align=CENTER>
+<h1 id="clear" align=CENTER>
 Dell
 </h1>
 
