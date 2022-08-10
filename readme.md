@@ -38,7 +38,7 @@
 <hr>
 
 <h1 align=CENTER>
-escreva aqui
+Menu
 </h1>
 
 <p align=CENTER>
@@ -50,10 +50,16 @@ escreva aqui
 <hr>
 
 #2
-escreva aqui
+
+<h1 align=CENTER>
+Cadastrar Empresa
+</h1>
+
+<p align=CENTER>
+<img src="https://raw.githubusercontent.com/JWsley/Project-Coffe/master/Cofee-bao/gifs/cad_empresa_sucess.gif" alt="drawing" width="800">    
+</p>
 
 
-![g1](https://raw.githubusercontent.com/JWsley/Project-Coffe/master/Cofee-bao/gifs/cad_empresa_sucess.gif)
 
 <hr>
 
@@ -65,7 +71,15 @@ escreva aqui
 escreva aqui
 
 
-![g1](https://raw.githubusercontent.com/JWsley/Project-Coffe/master/Cofee-bao/gifs/cad_prod_existente.gif)
+<h1 align=CENTER>
+Cadastrar Produto
+</h1>
+
+<p align=CENTER>
+<img src="https://raw.githubusercontent.com/JWsley/Project-Coffe/master/Cofee-bao/gifs/cad_prod_existente.gif" alt="drawing" width="800">    
+</p>
+
+
 
 <hr>
 
@@ -76,16 +90,16 @@ escreva aqui
 #4
 escreva aqui
 
+<h1 align=CENTER>
+ Exibir
+</h1>
 
-![g1](https://raw.githubusercontent.com/JWsley/Project-Coffe/master/Cofee-bao/gifs/exib_all.gif)
+<p align=CENTER>
+<img src="https://raw.githubusercontent.com/JWsley/Project-Coffe/master/Cofee-bao/gifs/exib_unity.gif" alt="drawing" width="500">    
+<img src="https://raw.githubusercontent.com/JWsley/Project-Coffe/master/Cofee-bao/gifs/exib_all.gif" alt="drawing" width="500">   
 
-![g1](https://raw.githubusercontent.com/JWsley/Project-Coffe/master/Cofee-bao/gifs/exib_unity.gif)
-
-
+</p>
 <hr>
-
-
-
 
 <hr>
 
@@ -93,44 +107,37 @@ escreva aqui
 escreva aqui
 
 
-![g1](https://raw.githubusercontent.com/JWsley/Project-Coffe/master/Cofee-bao/gifs/gif1.gif)
 
+<h1 align=CENTER>
+  Alterar
+</h1>
+
+<p align=CENTER>
+<img src="https://raw.githubusercontent.com/JWsley/Project-Coffe/master/Cofee-bao/gifs/alter_prod.gif" alt="drawing" width="800">    
+  
+</p>
 <hr>
-
-
 
 <hr>
 
 #6
-escreva aqui
 
 
-![g1](https://raw.githubusercontent.com/JWsley/Project-Coffe/master/Cofee-bao/gifs/gif1.gif)
+
+
+<h1 align=CENTER>
+   Dell
+</h1>
+
+<p align=CENTER>
+<img src="https://raw.githubusercontent.com/JWsley/Project-Coffe/master/Cofee-bao/gifs/del_prod.gif" width="800">    
+  
+</p>
+<hr>
 
 <hr>
 
 
-
-
-<hr>
-
-#7
-escreva aqui
-
-
-![g1](https://raw.githubusercontent.com/JWsley/Project-Coffe/master/Cofee-bao/gifs/gif1.gif)
-
-<hr>
-
-
-
-<hr>
-
-#8
-escreva aqui
-
-
-![g1](https://raw.githubusercontent.com/JWsley/Project-Coffe/master/Cofee-bao/gifs/gif1.gif)
 
 <hr>
 
@@ -140,5 +147,10 @@ escreva aqui
 
 
 <h2 id ='tecnologias'>Tecnologias</h2> 
+
+ Python | Mysql | Cx-freeze |Tkinter|Canvas|
+|--- |--- |--- |--- |--- |
+| <a href="https://www.python.org/downloads/" target="_blank">Back-end</a> | DBA | Executavel | Front-end |Design maker|
+
 
 <h2 id ='autores'>Autores</h2>
