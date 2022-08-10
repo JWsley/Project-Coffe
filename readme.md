@@ -7,12 +7,12 @@
 <h1 align =center>Principais Tópicos</h1>
 
 <p align =CENTER>
-█
+←<
 <a href='#sobre'>sobre</a> |
 <a href='#funcionalidades'>funcionalidades</a> |
 <a href='#tecnologias'>Tecnologias</a> |
 <a href='#autores'>Autores</a> 
-█
+>→
 </p>
 
 
@@ -21,18 +21,24 @@
 <h2 id='sobre'>sobre</h2>
 <p>Este projeto simples foi uma forma de aplicar alguns conhecimentos basicos com python e Mysql, assim criamos baseado em modelo simples de cafeteria, aonde se pode manipular produtos dentro de um banco de dados.</p>
 
-<h2 id ='funcionalidades'>Funcionalidades</h2>
 
-##Principais telas
+<hr>
+
+<h1 id ='funcionalidades'>Funcionalidades</h1>
+
+
+
+<h2 align=CENTER>Principais telas</h2>
 
 <p align=CENTER>
- 
-<a href='#menu'>MENU</a>
-<a href='#estoque'>ESTOQUE</a>
-<a href='#cad_funci'>Cadastrar FUNCIONÁRIO</a>
-<a href='#cad_produto'>CADASTRAR PRODUTO</a>
-<a href='#alter'>ALTERAR PRODUTO</a>
-<a href='#clear'>EXCLUIR PRODUTO</a>
+←<
+<a href='#menu'>MENU</a> |
+<a href='#estoque'>ESTOQUE</a> |
+<a href='#cad_funci'>Cadastrar FUNCIONÁRIO</a> |
+<a href='#cad_produto'>CADASTRAR PRODUTO</a> |
+<a href='#alter'>ALTERAR PRODUTO</a> |
+<a href='#clear'>EXCLUIR PRODUTO</a> |
+>→
 </p>
 
 
