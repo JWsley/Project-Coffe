@@ -34,9 +34,12 @@
    - [x] Exibição de dados cadastrados.
    - [x] Exclusão de produto.
    - [x] Menu com conceito simples de compra.
+   
+<hr>
 
+![teste](https://raw.githubusercontent.com/JWsley/Project-Coffe/master/Cofee-bao/gifs/alter_prod.gif)
 
-
+<hr>
 
 
 
