@@ -153,10 +153,12 @@ escreva aqui
 | <a href="https://www.python.org/downloads/" target="_blank">Back-end</a> |  <a href="https://www.mysql.com/downloads/" target="_blank">DBA</a> |  <a href="https://pypi.org/project/cx-Freeze/" target="_blank">Executavel</a> |  <a href="https://docs.python.org/3/library/tkinter.html" target="_blank">Front-end</a> | <a href="https://www.canva.com/" target="_blank">Design maker</a>|
 
 
-<h2 id ='autores'>Autores</h2>
-•||[JWsley](https://github.com/JWsley)
-•||[Feconyh](https://github.com/Feconyh)
-•||[Renan](https://github.com/RenanFonsec)
-•||[jonathas-k](https://github.com/jonathas-k)
+<h2 id ='autores' >Autores</h2>
+<hr>
+
+• [JWsley](https://github.com/JWsley)
+• [Feconyh](https://github.com/Feconyh)
+• [Renan](https://github.com/RenanFonsec)
+• [jonathas-k](https://github.com/jonathas-k)
 
 
