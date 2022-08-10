@@ -1,4 +1,4 @@
-<h1 align =CENTER>Coffeee Bão</h1>
+<h1 align =CENTER>Coffee Bão</h1>
 <p align = CENTER>███████████████████████████████████████████████████████████</p>
 <hr>
 
