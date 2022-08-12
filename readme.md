@@ -129,8 +129,8 @@ Cadastrar Produto
 <p> Está tela será usada caso queria procurar um produto existente no banco de dados, existem 2 maneira de utiliza-lo, você pode apenas pesquisar e assim mostrara todos os produtor existentes, mas se quiser um especifico, basta ter o ID do produto, e pesquisar, assim ira mostrar somente o desejado, veja abaixo como utilizada os 2 métodos:</p>
 
 <p align=CENTER>
-<img src="https://raw.githubusercontent.com/JWsley/Project-Coffe/master/Cofee-bao/gifs/exib_unity.gif" alt="exibir unidade" width="500">
-<img src="https://raw.githubusercontent.com/JWsley/Project-Coffe/master/Cofee-bao/gifs/exib_all.gif" alt="exibir tudo" width="500">
+<img src="https://raw.githubusercontent.com/JWsley/Project-Coffe/master/Cofee-bao/gifs/exib_unity.gif" alt="exibir unidade" width="400">
+<img src="https://raw.githubusercontent.com/JWsley/Project-Coffe/master/Cofee-bao/gifs/exib_all.gif" alt="exibir tudo" width="400">
 
 </p>
 <hr>
