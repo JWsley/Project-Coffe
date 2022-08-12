@@ -35,7 +35,7 @@
 <a href='#menu'>MENU</a> |
 <a href='#estoque'>ESTOQUE</a> |
 <a href='#cad_funci'>CADASTRAR FUNCIONÁRIO</a> | 
-<a href='#cad_produto'>CADASTRAR PRODUTO |</a> |
+<a href='#cad_produto'>CADASTRAR PRODUTO </a> |
 <a href='#view'>EXIBIR</a> |
 <a href='#alter'>ALTERAR PRODUTO</a> |
 <a href='#clear'>EXCLUIR PRODUTO</a> |
