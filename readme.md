@@ -30,13 +30,13 @@
 
 <h2 align=CENTER>Principais telas</h2>
 
-<p align=CENTER>
+<p align=CENTER style="font-size:20px;">
 ←<
 <a href='#menu'>MENU</a> |
 <a href='#estoque'>ESTOQUE</a> |
 <a href='#cad_funci'>CADASTRAR FUNCIONÁRIO</a> | 
 <a href='#cad_produto'>CADASTRAR PRODUTO </a> |
-<a href='#view'>EXIBIR</a> |
+<a href='#ver'>EXIBIR</a> |
 <a href='#alter'>ALTERAR PRODUTO</a> |
 <a href='#clear'>EXCLUIR PRODUTO</a> |
 >→
@@ -123,7 +123,7 @@ Cadastrar Produto
 <hr>
 
 
-<h1 id="view" align=CENTER>
+<h1 id="ver" align=CENTER>
  Exibir
 </h1>
 
